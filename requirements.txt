@@ -2,5 +2,7 @@ discord.py==2.3.2
 openai==1.54.0
 httpx==0.27.2
 google-genai
+google-api-core
+google-cloud-core
 flask==2.2.5
 pytz
