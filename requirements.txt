@@ -7,3 +7,4 @@ google-cloud-core
 flask==2.2.5
 pytz
 yt_dlp
+PyNaCl
